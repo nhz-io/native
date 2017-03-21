@@ -1,3 +1,5 @@
+// Original: https://github.com/fcanas/node-native-boilerplate/blob/master/functions.cc
+
 #include "functions.h"
 
 NAN_METHOD(nothing) {
